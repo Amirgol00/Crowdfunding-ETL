@@ -24,9 +24,13 @@ Refer to the Jupyter notebook "Amir_Golshan_ETL_Mini_Project_Starter_Code.ipynb"
 
 # File Descriptions
 Amir_Golshan_ETL_Mini_Project_Starter_Code.ipynb: The main Jupyter notebook containing the ETL process and data analysis (Option 2 was chosen)
-crowdfunding_db_schema_Amir.sql: Contains the SQL schema for creating the PostgreSQL database tables.
+
+crowdfunding_db_schema_Amir.sql: Contains the SQL schema for creating the PostgreSQL database tables
+
 ERD_sketch.jpeg: shows the ERD relationship sketch and code
-"Resources Folder": All the data/resources used and created by the code are in this folder.
+
+"Resources Folder": All the data/resources used and created by the code are in this folder
+
 
 # Creation of a PostgreSQL Database
 To set up the database for this project, follow these steps:
