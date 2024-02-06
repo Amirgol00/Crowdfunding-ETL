@@ -6,7 +6,6 @@ ETL Mini Project
 # Description
 This project aims to extract, transform, and load (ETL) data for a crowdfunding platform. It involves data processing and analysis to support decision-making and reporting.
 
-Getting Started
 
 # Dependencies
 
